@@ -4,13 +4,13 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
 public class Consts {
-	public static final String APP_ID = "wx96938bdbea72e953";
-	public static final String APP_SECRET = "377110ff21e4a7a40d63058d0d366b91";
+	public static final String APP_ID = "";
+	public static final String APP_SECRET = "";
 	
-	//为点赞加分
+	//脦陋碌茫脭脼录脫路脰
 	public static final int SHARE_SCORE = 1;
 	
-	public static final String APP_HOST = "http://42.96.130.124:8080/FeiYang/";
+	public static final String APP_HOST = "";
 	
 	public static final String HOME_PIC_URL = APP_HOST + "pic/home.jpg";
 
